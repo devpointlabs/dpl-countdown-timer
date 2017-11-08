@@ -1,4 +1,4 @@
-# react-css-clock
+# DPL Countdown Timer
 refactored version of this clock : https://github.com/nightwing891/JavaScript-30/tree/master/countdown-timer
 
 Had to bring the app into a create-react-app to host on surge but is a pure static site, main pages are the pubic/index.html , public/timer.js , src/index.css .
